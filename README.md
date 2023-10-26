@@ -1,4 +1,10 @@
-# Projeto Final de Programação 3
+# Projeto Final de Programação 3 
+
+### Nomes e Descrição
+Gabriel Mühl, Júlia Perini, Amanda De Paula e Nicole Thewes
+
+### Descrição
+Nosso trabalho vai ser um avaliador de música, que irá rankear as músicas que os alunos do IFRS felis gostam ou não gostam.
 
 ### Definição
 Em grupos formados por até 4 pessoas, vocês devem desenvolver um sistema que, de alguma forma, será um clone do Tinder. Porém, o que será avaliado pelas pessoas que o utilizarão será de escolha dos grupos. Algumas sugestões são jogos, séries, filmes, artistas, etc. De forma objetiva, o sistema deve apresentar para pessoas logadas itens que devem ser classificados e a classificação deve gerar um ranking.
@@ -15,7 +21,7 @@ O sistema deve possuir dois papéis para as pessoas que vão o utilizar com perm
 - [ ] Ordenar de forma crescente ou decrescente os rankings de classificações
 
 #### Gerente
-- [ ] A pessoa que será gerente deve ser cadastrada no banco previamente (user: admin e password: senha123)
+- [x] A pessoa que será gerente deve ser cadastrada no banco previamente (user: admin e password: senha123)
 - [ ] Fazer login e logout no sistema
 - [ ] Visualizar ranking dos itens classificados
 - [ ] Ordenar de forma crescente ou decrescente o ranking de classificações
